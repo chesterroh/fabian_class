@@ -3,7 +3,7 @@
 import numpy as np
 import pickle
 
-num_students = 1000000
+num_students = 10000000
 np.random.seed(4)
 
 def cleanse_data( score ):
